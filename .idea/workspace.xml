@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ConditionalKt">
+  <component name="RunManager" selected="Kotlin.LambdaKt">
     <configuration name="ConditionalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Learnkotlin" />
       <option name="VM_PARAMETERS" />
@@ -81,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Learnkotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdaKt" />
         <item itemvalue="Kotlin.ConditionalKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
@@ -101,7 +115,7 @@
       <updated>1570005137871</updated>
       <workItem from="1570005141610" duration="955000" />
       <workItem from="1570104087147" duration="5157000" />
-      <workItem from="1570123087227" duration="602000" />
+      <workItem from="1570123087227" duration="2125000" />
     </task>
     <servers />
   </component>
